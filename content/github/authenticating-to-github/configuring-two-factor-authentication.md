@@ -1,4 +1,5 @@
----
+KHMER LIMITED ADVISORY
+
 title: Configuring two-factor authentication
 intro: You can choose among multiple options to add a second source of authentication to your account.
 redirect_from:
